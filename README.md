@@ -240,4 +240,4 @@ This repository serves as the official landing page for Glest. The software is d
 **Get the most recent version of Glest today!**
 
 ---
-**Last updated:** 2026-10-13 19:37:55 UTC
+**Last updated:** 2026-10-13 23:29:54 UTC
